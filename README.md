@@ -1,0 +1,1 @@
+The primary goal of this project is to develop an effective machine learning model capable of distinguishing between spam and non-spam emails. The study encompasses data preparation, model building using TensorFlow, and thorough evaluation of the model's performance on a test set.
